@@ -107,7 +107,7 @@
     <aspectjrt.version>1.8.10</aspectjrt.version>
     <aspectjtools.version>1.8.10</aspectjtools.version>
     <findbugs.annotations.version>3.0.1</findbugs.annotations.version>
-    <jackson.version>2.9.0</jackson.version>
+    <jackson.version>2.12.1</jackson.version>
     <jackson-coreutils.version>1.8</jackson-coreutils.version>
     <json-schema-core.version>1.2.8</json-schema-core.version>
     <json-schema-validator.version>2.2.8</json-schema-validator.version>
